@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pyo
+ffmpeg-python
+python-dotenv 
